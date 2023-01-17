@@ -8,7 +8,7 @@
   },
   "NFT_NAME": "Triangulux by Celestial",
   "SYMBOL": "TRIANGULUX",
-  "MAX_SUPPLY": 2222,
+  "MAX_SUPPLY": 2500,
   "WEI_COST": 5000000000000000,
   "DISPLAY_COST": 0.005000000,
   "GAS_LIMIT": 140000,
